@@ -2,6 +2,7 @@
   "name": "freddosandfriends",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "dependencies": {
     "@craco/craco": "^7.1.0",
     "axios": "^1.7.9",
@@ -15,8 +16,7 @@
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0",
     "react-instagram-embed": "^3.0.0",
-    "react-router-dom": "^5.2.0",
-    "license": "MIT"
+    "react-router-dom": "^5.2.0"
   },
   "scripts": {
     "start": "craco start",
@@ -24,7 +24,6 @@
     "test": "craco test --env=jsdom",
     "eject": "craco eject"
   },
-  
   "engines": {
     "node": ">=18.x"
   },
