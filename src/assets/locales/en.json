@@ -1,0 +1,181 @@
+{
+    "heroSection": {
+      "logoSrc": "/Logo.png",
+      "heading1": "Hi,",
+      "heading2": "we're Freddos & Friends",
+      "content1": "Join our community of Greek girls in London who love to run and stay active.",
+      "action1": "Join Us",
+      "action2": "Learn More",
+      "images": [
+        {
+          "id": 1,
+          "url": "/pictures/Hero1.JPG",
+          "alt": "Group of Greek girls running together"
+        },
+        {
+          "id": 2,
+          "url": "/pictures/Hero2.JPG",
+          "alt": "Greek girl stretching before a run"
+        },
+        {
+          "id": 3,
+          "url": "/pictures/Hero1.JPG",
+          "alt": "Group of Greek girls running together"
+        },
+        {
+          "id": 4,
+          "url": "/pictures/Hero2.JPG",
+          "alt": "Greek girl stretching before a run"
+        },
+        {
+          "id": 5,
+          "url": "/pictures/Hero1.JPG",
+          "alt": "Group of Greek girls running together"
+        },
+        {
+          "id": 6,
+          "url": "/pictures/Hero2.JPG",
+          "alt": "Greek girl stretching before a run"
+        }
+      ]
+    },
+    "navbar": {
+      "link1": "Home",
+      "link5": "Contact",
+      "link2": "About Us",
+      "logoSrc": "/Logo.png",
+      "logoAlt": "Freddos & Friends logo",
+      "link3": "Events",
+      "action1": "My Account",
+      "action2": "Register",
+      "link4": "Join Us"
+    },
+    "paddingSection": {
+      "features": [
+        {
+          "id": 1,
+          "imgAlt": "Group of Greek girls running together",
+          "imgSrc": "/pictures/group_run.jpg",
+          "title": "Group Runs",
+          "description": "Enjoy group runs with other Greek girls in London",
+          "containerClass": "features1-container3",
+          "className": "features1-image1 thq-img-ratio-16-9"
+        },
+        {
+          "id": 2,
+          "imgAlt": "Greek girl crossing the finish line at a race",
+          "imgSrc": "/pictures/race_participation.jpg",
+          "title": "Race Participation",
+          "description": "Participate in fun and challenging running events around London",
+          "containerClass": "features1-container4",
+          "className": "features1-image2 thq-img-ratio-16-9"
+        },
+        {
+          "id": 3,
+          "imgAlt": "Greek girls smiling and chatting after a run",
+          "imgSrc": "/pictures/friendship.jpg",
+          "title": "Community and Friendship",
+          "description": "Join our running club and meet new friends while staying active",
+          "containerClass": "features1-container5",
+          "className": "features1-image3 thq-img-ratio-16-9"
+        }
+      ]
+    },
+        "paddingSection2": {
+          "features": [
+            {
+              "id": 1,
+              "imgAlt": "Group Runs Image",
+              "imgSrc": "https://images.unsplash.com/photo-1518893494013-481c1d8ed3fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTczNDk2MTA3MHw&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Weekly Group Runs",
+              "description": "Join us every week for group runs around London's scenic routes. Meet new friends and stay motivated together.",
+              "containerClass": "features2-container3",
+              "className": "features2-image1 thq-img-ratio-16-9"
+            },
+            {
+              "id": 2,
+              "imgAlt": "Running Events Image",
+              "imgSrc": "https://images.unsplash.com/photo-1473181488821-2d23949a045a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTczNDk2MTA3MXw&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Running Events",
+              "description": "Participate in exciting running events and races with the Freddos & Friends club. Challenge yourself and have fun!",
+              "containerClass": "features2-container4",
+              "className": "features2-image2 thq-img-ratio-16-9"
+            },
+            {
+              "id": 3,
+              "imgAlt": "Nutrition Tips Image",
+              "imgSrc": "https://images.unsplash.com/photo-1513151233558-d860c5398176?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTczNDk2MTA3MXw&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Nutrition Tips",
+              "description": "Get access to exclusive nutrition tips and advice to fuel your runs and enhance your performance.",
+              "containerClass": "features2-container5",
+              "className": "features2-image3 thq-img-ratio-16-9"
+            }
+          ]
+        },
+    "testimonials": [
+      {
+        "id": 1,
+        "name": "Maria",
+        "quote": "This club changed my life! I've met so many amazing people.",
+        "image": "/pictures/Member1.JPG"
+      },
+      {
+        "id": 2,
+        "name": "Eleni",
+        "quote": "Running with Freddos & Friends is the highlight of my week.",
+        "image": "/pictures/Member2.JPG"
+      }
+    ],
+        "pricingSection": {
+          "subtitle": "Choose the perfect plan for you",
+          "title": "Pricing Plans",
+          "description": "Select a plan that fits your needs. Whether you're a beginner or an experienced runner, we have something for everyone.",
+          "monthlyPlans": [
+            {
+              "id": 1,
+              "name": "Basic Plan",
+              "price": "$10/month",
+              "features": ["Weekly group runs", "Basic training tips"],
+              "action": "Join Now",
+              "featured": false
+            },
+            {
+              "id": 2,
+              "name": "Pro Plan",
+              "price": "$20/month",
+              "features": [
+                "Access to all runs",
+                "Advanced training tips",
+                "Discount on events"
+              ],
+              "action": "Join Now",
+              "featured": true
+            }
+          ],
+          "yearlyPlans": [
+            {
+              "id": 1,
+              "name": "Basic Plan",
+              "price": "$100/year",
+              "additionalInfo": "Save $20!",
+              "features": ["Weekly group runs", "Basic training tips"],
+              "action": "Join Now",
+              "featured": false
+            },
+            {
+              "id": 2,
+              "name": "Pro Plan",
+              "price": "$200/year",
+              "additionalInfo": "Save $40!",
+              "features": [
+                "Access to all runs",
+                "Advanced training tips",
+                "Discount on events"
+              ],
+              "action": "Join Now",
+              "featured": true
+            }
+          ]
+        }           
+  }
+  
